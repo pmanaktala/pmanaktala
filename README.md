@@ -1,6 +1,10 @@
 <h1>Heya :wave: Visitor!! ✨  </h1>
 
-<p>Well we all are on github right? A place where people will actually UNDERSTAND what i mean. So here we go!!</p>
+<p>Well we all are on github right? A place where people will actually UNDERSTAND what i mean.
+So lets make the below request.
+</p>
+
+>curl -XGET -H 'user-name: pmanaktala' '/user/bio'
 
 ```json
 {
