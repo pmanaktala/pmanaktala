@@ -6,6 +6,8 @@ So lets make the below request.
 
 >curl -XGET -H 'user-name: pmanaktala' '/user/bio'
 
+Beep Boop Beep...This guy knows JSON it seems...Recieved Response...
+
 ```json
 {
    "name":"Parth Manaktala",
@@ -16,5 +18,28 @@ So lets make the below request.
       "University":"SRM Institute of Science and Technology"
    },
    "About Me":"A person who is fascinated by technology. A Team Player who loves to develop. Taking the challenges as my lessons, I try to develop a code which is well formatted, follows best practices and is efficeint."
+}
+```
+
+Well I can code...
+
+```java
+public List<String> getKnownLanguages(){
+   List<String> knownLanguages = new LinkedList<>();
+
+   knownLanguages.add("JavaEE");
+   knownLanguages.add("Spring Boot");
+   knownLanguages.add("Python");
+
+   knownLanguages.add("HTML");
+   knownLanguages.add("CSS");
+   knownLanguages.add("JavaScript");
+   knownLanguages.add("JSP");
+   knownLanguages.add("Python");
+
+   knownLanguages.add("APIGEE");
+   knownLanguages.add("AWS");
+
+   return knownLanguages;
 }
 ```
