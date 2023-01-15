@@ -12,10 +12,10 @@ Beep Boop Beep...This guy knows JSON it seems...Recieved Response...
 {
    "name":"Parth Manaktala",
    "Highest Education Details":{
-      "Qualification":"B.Tech",
-      "Stream":"Information Technology",
-      "Grade":"Well, Does textbook knowledge really matter? Anyways, its 8.45",
-      "University":"SRM Institute of Science and Technology"
+      "Qualification":"Masters of Science",
+      "Stream":"Computer Science",
+      "Grade":"Well, Does textbook knowledge really matter? Anyways, its 4",
+      "University":"Purdue University"
    },
    "About Me":"A person who is fascinated by technology. A Team Player who loves to develop. Taking the challenges as my lessons, I try to develop a code which is well formatted, follows best practices and is efficeint."
 }
