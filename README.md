@@ -1,52 +1,17 @@
-<h1>Heya :wave: Visitor!! ✨  </h1>
+# Hey, I’m Parth
 
-<p>Well, we all ended up on GitHub, right? It's the place where people finally UNDERSTAND what I mean. So, here's my special request:</p>
+I work on databases and internal tools by day. On the side, I make iPhone apps for things that should take one tap.
 
-> 🤖 Beep Boop Beep... This guy seems to understand JSON. Let's make a request...
+## Try the apps
 
-```json
-{
-   "name": "Parth Manaktala",
-   "Highest Education Details": {
-      "Qualification": "Masters of Science",
-      "Stream": "Computer Science",
-      "Grade": "Well, Does textbook knowledge really matter? Anyways, it's a solid 4",
-      "University": "Purdue University"
-   },
-   "About Me": "I'm a tech enthusiast, a team player who loves to develop. I take challenges as my lessons, aiming to write code that's as well-formatted as a Shakespearean sonnet, follows best practices like a pro chef's recipe, and is as efficient as a ninja."
-}
-```
+- [Dump: Save Anything](https://apps.apple.com/us/app/dump-save-anything/id6782526927) lets you save a link, screenshot, or note the moment you find it. Filing it is future-you’s problem.
+- [Void](https://apps.apple.com/us/app/void-nothing-to-do/id6763810724) gives you a minute to do nothing. Yes, I made an app for that.
 
-Well I can code...
+## Browse the code
 
-```java
-public List<String> getKnownLanguages(){
-   List<String> knownLanguages = new LinkedList<>();
+- [Pip](https://github.com/pmanaktala/Pip) is a one-tap mood log with a little animated companion on your iPhone and Apple Watch. The [pet animation notes](https://github.com/pmanaktala/Pip/blob/main/Docs/Pets/Bible.md) explain how the same penguin, cat, or dog shows up across devices.
+- [Restricted Input](https://github.com/pmanaktala/restricted-input) is a Java library for sharing input validation rules across Spring Boot endpoints.
 
-   knownLanguages.add("JavaEE");
-   knownLanguages.add("Spring Boot");
-   knownLanguages.add("Python");
-   knownLanguages.add("C#");
-   knownLanguages.add(".Net Coret");
-   knownLanguages.add(".Net Framework");
+On side projects, I use coding agents for implementation. I decide how the app should feel, shape the architecture, review the code, and test what actually happens when you tap the thing.
 
-   knownLanguages.add("APIGEE");
-   knownLanguages.add("AWS");
-
-   return knownLanguages;
-}
-```
-
-And I do web development too!
-
-```javascript
-const getKnownLanguages = () => {
-  const knownLanguages = [];
-
-  knownLanguages.push("React");
-  knownLanguages.push("Node.js");
-  knownLanguages.push("Express");
-
-  return knownLanguages;
-};
-```
+[More about my work](https://pmanaktala.com/)
